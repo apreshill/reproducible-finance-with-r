@@ -12,6 +12,7 @@ output:
     highlight: default
     self_contained: false
     toc: true
+    theme: ../../theme.css
 repository_url: https://github.com/jjallaire/reproducible-finance-with-r/
 ---
 

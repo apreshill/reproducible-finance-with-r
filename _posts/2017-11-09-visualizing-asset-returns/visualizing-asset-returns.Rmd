@@ -31,11 +31,11 @@ set.seed(42)
 
 Here's the portfolio we'll be visualizing the assets of:
 
-- SPY (S&P 500 fund) weighted 25%
-- EFA (a non-US equities fund) weighted 25%
-- IJS (a small-cap value fund) weighted 20%
-- EEM (an emerging-mkts fund) weighted 20%
-- AGG (a bond fund) weighted 10%
+- [SPY](https://www.google.com/finance/quote/SPY:NYSEARCA) (S&P 500 fund) weighted 25%
+- [EFA](https://www.google.com/finance/quote/EFA:NYSEARCA) (a non-US equities fund) weighted 25%
+- [IJS](https://www.google.com/finance/quote/IJS:NYSEARCA) (a small-cap value fund) weighted 20%
+- [EEM](https://www.google.com/finance/quote/EEM:NYSEARCA) (an emerging-mkts fund) weighted 20%
+- [AGG](https://www.google.com/finance/quote/AGG:NYSEARCA) (a bond fund) weighted 10%
 
 Let's load up our packages.
 
