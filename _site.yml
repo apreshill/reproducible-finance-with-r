@@ -4,6 +4,9 @@ description: |
   Exploring reproducible finance with the R statistical computing environment.
 collections:
   posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
     disqus: reproducible-finance-with-r
     share: [twitter, linkedin]
     subscribe: _subscribe.html
@@ -11,6 +14,7 @@ creative_commons: CC BY
 base_url: https://beta.rstudioconnect.com/content/3776/
 favicon: images/favicon.png
 google_analytics: "UA-77306155-2"
+theme: turtles.css
 navbar:
   logo: images/rstudio.png
   right:
